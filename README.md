@@ -8,7 +8,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/orzkiah/orzkiah/output/github-snake-dark.svg" />
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=orzkiah&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy" />
 
 <p>
   <a href="https://github.com/orzkiah"><img src="https://img.shields.io/badge/GitHub-orzkiah-181717?style=flat&logo=github" /></a>
